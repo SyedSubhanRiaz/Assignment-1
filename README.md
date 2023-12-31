@@ -1,2 +1,2 @@
 # Assignment-1
-I made my CV for using HTML.
+I make my CV for used HTML.
